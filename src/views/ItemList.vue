@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import { watchList } from '../api'
+import { watchList } from '../api/memory'
 import Item from '../components/Item.vue'
 
 export default {
